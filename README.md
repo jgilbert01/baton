@@ -8,3 +8,4 @@ Watch the baton not the runners
 - baton-vcr
 - baton-relay
 - baton-proxy
+- baton-serverless-plugin
